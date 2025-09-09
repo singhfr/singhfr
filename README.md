@@ -55,6 +55,11 @@
   <img src="https://raw.githubusercontent.com/singhfr/singhfr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+<!-- Alternative snake animation -->
+<div align="center">
+  <img src="https://github.com/singhfr/singhfr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 <div align="center">
